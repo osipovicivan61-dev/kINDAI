@@ -1,0 +1,6 @@
+{
+  "name": "CinematicAI Studio",
+  "description": "Next-generation AI video generation platform with high-speed models, custom aspect ratios, and full API access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
